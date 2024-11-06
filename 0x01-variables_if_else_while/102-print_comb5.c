@@ -1,10 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - main function
- * description - printing all possible combination of two-digit numbers
+ * main - Entry point
  *
- * return - Always 0 (success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
